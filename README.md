@@ -1,6 +1,6 @@
 # Hi, I'm Patt Sookmark! <img src="https://media.giphy.com/media/W0LESI95kopP6EEtiJ/giphy.gif" width="50">
 <b>Front-End Software Developer from <a href="https://turing.edu/">Turing School of Software & Design</a>
-[My Personal Page]('https://pattpjy.github.io/my-coding-journey')
+This is [my personal page!](https://pattpjy.github.io/my-coding-journey)
 </b>
 
 
