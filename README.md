@@ -2,7 +2,10 @@
 <b>Front-End Software Developer from <a href="https://turing.edu/">Turing School of Software & Design</a>
 This is [my personal page!](https://pattpjy.github.io/my-coding-journey)
 </b>
-
+## Current Projects
+- Thai word game
+- Oppidy - Opportunity solution tree tooling
+- 100 days of python
 
 # About Me
 
