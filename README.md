@@ -2,9 +2,12 @@
 <b>Front-End Software Developer from <a href="https://turing.edu/">Turing School of Software & Design</a>
 This is [my personal page!](https://pattpjy.github.io/my-coding-journey)
 </b>
- ## Current Projects
+ ## Projects
+  - [Closet Collection](https://closet-manager-fe.vercel.app/) React-Typescript
+  - [Budget Tracker](https://pattpjy.github.io/Expense-Tracker/) VUE JS
+  - [Repo Readme Generator](https://pattpjy.github.io/gitReadmeMd/) React JS
   - Thai word game
-  - Oppidy - Opportunity solution tree tooling
+  - Oppity - Opportunity solution tree tooling
   - 100 days of python
 
 # About Me
