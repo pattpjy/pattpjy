@@ -6,25 +6,26 @@ This is [my personal page!](https://pattpjy.github.io/my-coding-journey)
   - [Closet Collection](https://closet-manager-fe.vercel.app/) React-Typescript
   - [Budget Tracker](https://pattpjy.github.io/Expense-Tracker/) VUE JS
   - [Repo Readme Generator](https://pattpjy.github.io/gitReadmeMd/) React JS
+  - [Express Server + Local SQlite Database template](https://github.com/pattpjy/express-ts-sqlite-template) Node/Express JS
   - Thai word game
-  - Oppity - Opportunity solution tree tooling
+  - Oppity - Opportunity solution tree tooling React-Typescript, Node/Express JS, AWS
   - 100 days of python
 
 # About Me
 
-I'm originally from Bangkok Thailand and have been in Colorado for the last 12 years. 
+I'm originally from Bangkok, Thailand, and have been in Colorado for 12 years. 
 
 A few of my hobbies are :
 
-Cafe hopping! Coffee is my favorite drinks! I love checking out new coffee shop around Denver CO
+Cafe hopping! Coffee is my favorite drink! I love checking out new coffee shops around Denver CO.
 
-Smoking Meat! I loved BBQ and have been catering BBQ for the saveral years. My best recipes are smoked brisket, texas style ribs and coleslaw.
+Smoking Meat! I love BBQ and have been catering BBQ for several years. My best recipes are smoked brisket, Texas-style ribs, and coleslaw.
 
-Baking! Cookies, Brownies and Bread have been regulars in my house. 
+Baking! Cookies, Brownies, and Bread have been regulars in my house. 
 
-Traveling! My foodieness has been taking me to many places China, Hong Kong, Singapore, Australia and many places the US , I would love to continue to do so in Europe and south America . 
+Traveling! My foodies have been taking me to many places: China, Hong Kong, Singapore, Australia, and many places in the US; I would love to continue to do so in Europe and South America. 
 
-Please come chat with me, share you coding experiece, challenges in the filed or exciting new tech. 
+Please chat with me and share your coding experience, challenges in the field, or exciting new tech. 
 
 # Tech Stack
 
